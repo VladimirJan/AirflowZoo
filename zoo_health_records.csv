@@ -1,0 +1,51 @@
+animal_id,checkup_date,health_status
+1,2023-03-14,Healthy
+2,2023-04-22,Needs Attention
+3,2023-01-30,Healthy
+4,2023-05-05,Healthy
+5,2023-02-11,Needs Attention
+6,2023-06-20,Healthy
+7,2023-07-14,Under Observation
+8,2023-03-23,Needs Attention
+9,2023-02-08,Healthy
+10,2023-06-01,Needs Attention
+11,2023-04-25,Healthy
+12,2023-05-15,Under Observation
+13,2023-01-18,Healthy
+14,2023-06-30,Needs Attention
+15,2023-03-12,Healthy
+16,2023-02-27,Needs Attention
+17,2023-04-07,Healthy
+18,2023-05-20,Under Observation
+19,2023-03-03,Healthy
+20,2023-07-01,Needs Attention
+21,2023-01-10,Healthy
+22,2023-04-14,Needs Attention
+23,2023-05-18,Healthy
+24,2023-02-20,Needs Attention
+25,2023-03-21,Healthy
+26,2023-06-25,Under Observation
+27,2023-01-15,Healthy
+28,2023-04-29,Needs Attention
+29,2023-02-13,Healthy
+30,2023-07-07,Needs Attention
+31,2023-05-01,Healthy
+32,2023-03-05,Under Observation
+33,2023-06-19,Healthy
+34,2023-04-02,Needs Attention
+35,2023-01-22,Healthy
+36,2023-05-28,Needs Attention
+37,2023-03-27,Healthy
+38,2023-06-10,Needs Attention
+39,2023-02-17,Healthy
+40,2023-04-11,Needs Attention
+41,2023-07-05,Healthy
+42,2023-03-09,Needs Attention
+43,2023-01-20,Healthy
+44,2023-06-15,Under Observation
+45,2023-05-07,Healthy
+46,2023-02-26,Needs Attention
+47,2023-04-17,Healthy
+48,2023-01-28,Needs Attention
+49,2023-03-31,Healthy
+50,2023-06-21,Under Observation
