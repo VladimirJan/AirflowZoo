@@ -23,7 +23,7 @@ dag = DAG(
 )
 
 
-dag_directory = os.path.dirname(os.path.abspath(__file__)) # ?
+dag_directory = os.path.dirname(os.path.abspath(__file__)) 
 
 def extract_zoo_animals(**kwargs):
     file_path = os.path.join(dag_directory, 'zoo_animals.csv')
